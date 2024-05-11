@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall/admin/admin.iml" filepath="$PROJECT_DIR$/mall/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall/mall.iml" filepath="$PROJECT_DIR$/mall/mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall/portal/portal.iml" filepath="$PROJECT_DIR$/mall/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall/tuling-common/tuling-common.iml" filepath="$PROJECT_DIR$/mall/tuling-common/tuling-common.iml" />
+    </modules>
+  </component>
+</project>

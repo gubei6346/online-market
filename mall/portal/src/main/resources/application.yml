@@ -1,0 +1,24 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: mall-Portal
+  profiles:
+    active: dev
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+  configuration:
+    auto-mapping-behavior: partial
+    map-underscore-to-camel-case: true
+
+redis:
+  database: market
+  expire:
+    common: 86400 # 24小时
+  key:
+    user: 'ums:member'

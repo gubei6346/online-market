@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin" />
+        <module name="tuling-common" />
+        <module name="portal" />
+        <module name="common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="mall" target="1.8" />
+      <module name="portal" target="1.8" />
+      <module name="tuling-common" target="1.8" />
+      <module name="tuling-mpbg" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="portal" options="-parameters" />
+      <module name="tuling-common" options="-parameters" />
+      <module name="tuling-mpbg" options="-parameters" />
+    </option>
+  </component>
+</project>

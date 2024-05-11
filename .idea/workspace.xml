@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67cff0c0-e871-4066-b317-689f5c1a9e8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mall/sql/all.sql" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2enScKuk45eNLkySL9pYCAmUCM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunConfigurationTargetLRU" value="0957509d-02d8-459e-a590-fc1def911266&#10;0957509d-02d8-459e-a590-fc1def911266/schema/&quot;market&quot;" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tuling-single-mall/tuling-portal/src/main/resources/mapper/oms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.nnthink.aixcoder.config.Config" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\resources\mapper\oms" />
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\java\com\tulingxueyuan\mall\modules\oms\mapper" />
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\java\com\tulingxueyuan\mall\modules\oms\model" />
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\java\com\tulingxueyuan\mall\modules\oms\service\impl" />
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\java\com\tulingxueyuan\mall\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall\tuling-portal\src\main\resources\mapper" />
+      <recent name="D:\Code\github\vue-springboot-market\tuling-single-mall" />
+      <recent name="D:\Code\github\vue-springboot-market" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tulingxueyuan.mall" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tulingxueyuan.mall.config" />
+      <recent name="com.tulingxueyuan.mall.modules.pms.model.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StartApp">
+    <configuration name="MyBatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tulingxueyuan.mall.generator.MyBatisPlusGenerator" />
+      <module name="tuling-mpbg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.mall.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Portal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.tulingxueyuan.mall.Portal" />
+      <module name="portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mall_tiny.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/服务端/tuling-single-mall/sql/mall_tiny.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="0957509d-02d8-459e-a590-fc1def911266" namespace="schema/&quot;market&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tiny.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/服务端/tuling-single-mall/sql/tiny.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="0957509d-02d8-459e-a590-fc1def911266" namespace="schema/&quot;market&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="admin" />
+      <extension name="GrepConsole" selectedProfileId="1653790269817" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tulingxueyuan.mall.StartApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyBatisPlusGenerator" />
+      <item itemvalue="Application.Portal" />
+      <item itemvalue="Database Script.mall_tiny.sql" />
+      <item itemvalue="Database Script.tiny.sql" />
+      <item itemvalue="Spring Boot.StartApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StartApp" />
+        <item itemvalue="Application.Portal" />
+        <item itemvalue="Application.MyBatisPlusGenerator" />
+        <item itemvalue="Database Script.mall_tiny.sql" />
+        <item itemvalue="Database Script.tiny.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67cff0c0-e871-4066-b317-689f5c1a9e8d" name="Default Changelist" comment="" />
+      <created>1712538927640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712538927640</updated>
+      <workItem from="1712538928890" duration="885000" />
+      <workItem from="1712540362451" duration="2432000" />
+      <workItem from="1712542828686" duration="440000" />
+      <workItem from="1712543302636" duration="557000" />
+      <workItem from="1712543875659" duration="854000" />
+      <workItem from="1712544753091" duration="1341000" />
+      <workItem from="1712546158493" duration="155000" />
+      <workItem from="1712546328879" duration="4832000" />
+      <workItem from="1712552679795" duration="6759000" />
+      <workItem from="1712627146123" duration="2389000" />
+      <workItem from="1712638226351" duration="4361000" />
+      <workItem from="1712971670293" duration="5548000" />
+      <workItem from="1712978216608" duration="534000" />
+      <workItem from="1712978794652" duration="1502000" />
+      <workItem from="1712980368894" duration="6362000" />
+      <workItem from="1713060007247" duration="7906000" />
+      <workItem from="1713071419169" duration="238000" />
+      <workItem from="1713071696146" duration="10642000" />
+      <workItem from="1713141830569" duration="16110000" />
+      <workItem from="1713167363197" duration="1355000" />
+      <workItem from="1713168834837" duration="1915000" />
+      <workItem from="1713178975133" duration="2444000" />
+      <workItem from="1713181462971" duration="993000" />
+      <workItem from="1713233180401" duration="5104000" />
+      <workItem from="1713251940426" duration="12000" />
+      <workItem from="1713253471273" duration="6929000" />
+      <workItem from="1713316790536" duration="4422000" />
+      <workItem from="1713322724893" duration="4003000" />
+      <workItem from="1713330945400" duration="10308000" />
+      <workItem from="1713346382471" duration="2693000" />
+      <workItem from="1713517970182" duration="372000" />
+      <workItem from="1713849879258" duration="7434000" />
+      <workItem from="1713859902581" duration="6658000" />
+      <workItem from="1713869110257" duration="231000" />
+      <workItem from="1713869589805" duration="322000" />
+      <workItem from="1713869969984" duration="39000" />
+      <workItem from="1713871874976" duration="219000" />
+      <workItem from="1713932431781" duration="1220000" />
+      <workItem from="1713946816383" duration="1562000" />
+      <workItem from="1714006676460" duration="7618000" />
+      <workItem from="1714017702618" duration="933000" />
+      <workItem from="1714018663035" duration="319000" />
+      <workItem from="1714019137927" duration="46000" />
+      <workItem from="1714019295103" duration="12850000" />
+      <workItem from="1714033927531" duration="3780000" />
+      <workItem from="1714098438944" duration="16782000" />
+      <workItem from="1714118310799" duration="926000" />
+      <workItem from="1714119266748" duration="2461000" />
+      <workItem from="1714121767387" duration="1254000" />
+      <workItem from="1714123049342" duration="84000" />
+      <workItem from="1714123149352" duration="191000" />
+      <workItem from="1714123364172" duration="5742000" />
+      <workItem from="1714182004476" duration="16044000" />
+      <workItem from="1714203487599" duration="868000" />
+      <workItem from="1714270521739" duration="3057000" />
+      <workItem from="1714273893664" duration="10536000" />
+      <workItem from="1714285896931" duration="12000" />
+      <workItem from="1714285922540" duration="658000" />
+      <workItem from="1714808791994" duration="81000" />
+      <workItem from="1714808889014" duration="187000" />
+      <workItem from="1715046901554" duration="1809000" />
+      <workItem from="1715405751333" duration="1274000" />
+      <workItem from="1715414227172" duration="702000" />
+      <workItem from="1715415363038" duration="3616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

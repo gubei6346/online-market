@@ -1,0 +1,13 @@
+
+{
+    "liveServer.settings.port": 8080, //设置本地服务的端口号
+    "liveServer.settings.root": "/", //设置根目录，也就是打开的文件会在该目录下找
+    "liveServer.settings.CustomBrowser": "chrome", //设置默认打开的浏览器
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome --incognito --remote-debugging-port=9222",
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.ignoredFiles": [//设置忽略的文件
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass"
+    ]
+}    
